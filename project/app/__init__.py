@@ -1,0 +1,2 @@
+def contrib():
+    return None
